@@ -1,0 +1,116 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+<%@ taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions"%>
+
+
+<c:set var="root" value="${pageContext.request.contextPath}"/>
+<c:set var="rPath" value="${root}/resources"/>
+<c:set var="pPath" value="${root}/path"/>
+
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Pink-Donut One Page Template</title>
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="apple-touch-icon" href="${rPath}/apple-touch-icon.png">
+
+<!--<link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,200,300,600,700' rel='stylesheet' type='text/css'>-->
+<link rel="stylesheet" href="${rPath}/assets/css/fonticons.css">
+<link rel="stylesheet" href="${rPath}/assets/fonts/stylesheet.css">
+<link rel="stylesheet" href="${rPath}/assets/css/font-awesome.min.css">
+<link rel="stylesheet" href="${rPath}/assets/css/bootstrap.min.css">
+<!--        <link rel="stylesheet" href="assets/css/bootstrap-theme.min.css">-->
+
+
+<!--For Plugins external css-->
+<link rel="stylesheet" href="${rPath}/assets/css/plugins.css" />
+
+<!--Theme custom css -->
+<link rel="stylesheet" href="${rPath}/assets/css/style.css">
+
+<!--Theme Responsive css-->
+<link rel="stylesheet" href="${rPath}/assets/css/responsive.css" />
+
+<script src="${rPath}/assets/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+
+
+
+
+<script src="${rPath}/assets/js/vendor/jquery-1.11.2.min.js"></script>
+<script src="${rPath}/assets/js/vendor/bootstrap.min.js"></script>
+<script src="${rPath}/assets/js/vendor/isotope.min.js"></script>
+
+<script src="${rPath}/assets/js/jquery.easypiechart.min.js"></script>
+<script src="${rPath}/assets/js/jquery.mixitup.min.js"></script>
+
+
+<script src="${rPath}/assets/js/plugins.js"></script>
+<script src="${rPath}/assets/js/main.js"></script>
+
+
+<script src="${rPath}/js/common.js"></script>
+
+
+
+
+<!-- //////////////////////////////////////////////////////////////////////////////////////////// -->
+<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700"
+	rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Kaushan+Script"
+	rel="stylesheet">
+
+<!-- Animate.css -->
+<link rel="stylesheet" href="${rPath}/css/animate.css">
+<!-- Icomoon Icon Fonts-->
+<link rel="stylesheet" href="${rPath}/css/icomoon.css">
+<!-- Themify Icons-->
+<link rel="stylesheet" href="${rPath}/css/themify-icons.css">
+<!-- Bootstrap  -->
+<link rel="stylesheet" href="${rPath}/css/bootstrap.css">
+
+<!-- Magnific Popup -->
+<link rel="stylesheet" href="${rPath}/css/magnific-popup.css">
+
+<!-- Bootstrap DateTimePicker -->
+<link rel="stylesheet"
+	href="${rPath}/css/bootstrap-datetimepicker.min.css">
+
+<!-- Owl Carousel  -->
+<link rel="stylesheet" href="${rPath}/css/owl.carousel.min.css">
+<link rel="stylesheet" href="${rPath}/css/owl.theme.default.min.css">
+
+<!-- Theme style  -->
+<link rel="stylesheet" href="${rPath}/css/style.css">
+
+<!-- Modernizr JS -->
+<script src="${rPath}/js/modernizr-2.6.2.min.js"></script>
+
+<!-- jQuery -->
+<script src="${rPath}/js/jquery.min.js"></script>
+<!-- jQuery Easing -->
+<script src="${rPath}/js/jquery.easing.1.3.js"></script>
+<!-- Bootstrap -->
+<script src="${rPath}/js/bootstrap.min.js"></script>
+<!-- Waypoints -->
+<script src="${rPath}/js/jquery.waypoints.min.js"></script>
+<!-- Carousel -->
+<script src="${rPath}/js/owl.carousel.min.js"></script>
+<!-- countTo -->
+<script src="${rPath}/js/jquery.countTo.js"></script>
+
+<!-- Stellar Parallax -->
+<script src="${rPath}/js/jquery.stellar.min.js"></script>
+
+<!-- Magnific Popup -->
+<script src="${rPath}/js/jquery.magnific-popup.min.js"></script>
+<script src="${rPath}/js/magnific-popup-options.js"></script>
+
+<script src="${rPath}/js/moment.min.js"></script>
+<script src="${rPath}/js/bootstrap-datetimepicker.min.js"></script>
+
+
+<!-- Main -->
+<script src="${rPath}/js/main.js"></script>
+<!-- //////////////////////////////////////////////////////////////////////////////////////////// -->

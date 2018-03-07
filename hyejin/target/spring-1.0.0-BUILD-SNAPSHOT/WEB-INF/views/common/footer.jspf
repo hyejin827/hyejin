@@ -1,0 +1,79 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+
+<body>
+
+	<section id="contact" class="contact">
+		<div class="container">
+			<div class="row">
+				<div class="main_contact">
+
+					<div class="contact_content">
+
+
+						<div class="col-md-6 col-sm-6 col-xs-12 wow fadeInRight"
+							data-wow-duration="2s">
+							<div class="contact_socail_bookmark_area">
+								<div class="head_title text-center">
+									<h2>GET IN TOUCH</h2>
+									<div class="separator"></div>
+								</div>
+								<br><br>
+
+								<div class="row">
+									<div class="col-md-6 col-sm-6 col-xs-12">
+										<div class="single_contact_phone">
+											<h3>Phone:</h3>
+											<span>+48 202 - 555 - 0114</span>
+										</div>
+									</div>
+
+									<div class="col-md-6 col-sm-6 col-xs-12">
+										<div class="single_contact_phone">
+											<h3>Email:</h3>
+											<span>XS@yoursite.com</span>
+										</div>
+									</div>
+									<br><br><br>
+									<div class="col-md-6 col-sm-6 col-xs-12">
+										<div class="single_contact_phone">
+											<h3>Address:</h3>
+											<span>9114 Bridge Street ,Hillsboro, OR 97124</span>
+										</div>
+									</div>
+								</div>
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="footer_copyright">
+
+					<div class="col-md-6 col-sm-6 col-xs-12 wow fadeInDown"
+						data-wow-duration="3s">
+						<div class="single_copyirgth text-left">
+							<p>Copyright 2016 &copy; by XS@mail.com</p>
+						</div>
+					</div>
+
+					<div class="col-md-6 col-sm-6 col-xs-12">
+						<div class="single_copyirgth wow fadeInUp" data-wow-duration="2s">
+							<ul class="navbar-right">
+								<li class="active"><a href="#home">Home</a></li>
+								<li><a href="#whatido">What i do</a></li>
+								<li><a href="#myworks">My works</a></li>
+								<li><a href="#about">About</a></li>
+								<li><a href="#contact">Contact</a></li>
+							</ul>
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- End of contact With Map Section -->
+</body>
